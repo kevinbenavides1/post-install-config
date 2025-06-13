@@ -5,6 +5,13 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
+<p align="center">
+  
+![The_Office-logo](https://github.com/user-attachments/assets/f27f9f4c-a809-41f6-b94a-67bb32656b4b)
+</p>
+
+Will be setting up osTicketing System for The Office, a new paper company that has moved into Columbus, Ohio!
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -17,34 +24,51 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Departments
+- Configure Users
+- Configure Agents
+- Configure SLA
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="961" alt="Screenshot 2025-06-13 at 10 07 45 AM" src="https://github.com/user-attachments/assets/4f5e5e13-0c2a-409d-9ded-dce6febecf82" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created IT, Sales, Accounting, and HR Departments. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="964" alt="Screenshot 2025-06-13 at 10 23 08 AM" src="https://github.com/user-attachments/assets/5918eb31-11c1-4fbc-be5c-53199e90ad0d" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Added users that are part of The Office.  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="966" alt="Screenshot 2025-06-13 at 10 35 16 AM" src="https://github.com/user-attachments/assets/d077524a-f59c-4345-bb06-8bacc5ee5858" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Added Agent, who works with IT in The Office.
+</p>
+<br />
+
+<p>
+<img width="967" alt="Screenshot 2025-06-13 at 11 13 01 AM" src="https://github.com/user-attachments/assets/518f01f4-f605-4124-8166-9f8f9f99ef8e" />
+</p>
+<p>
+Added 4 SLA's. Critical, High Priority, Standard, and HR Cases. 
+</p>
+<br />
+
+<p>
+<img width="969" alt="Screenshot 2025-06-13 at 10 52 27 AM" src="https://github.com/user-attachments/assets/af614b77-4881-471e-a381-1659fb63684e" />
+</p>
+<p>
+Created 5 Help Topics. Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, and Other. 
 </p>
 <br />
