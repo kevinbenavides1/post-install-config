@@ -33,14 +33,12 @@ Will be setting up osTicketing System for The Office, a new paper company that h
 <h2>Configuration Steps</h2>
 
 <p>
-<img width="961" alt="Screenshot 2025-06-13 at 10 07 45 AM" src="https://github.com/user-attachments/assets/4f5e5e13-0c2a-409d-9ded-dce6febecf82" />
+<img width="966" alt="Screenshot 2025-06-13 at 1 42 39 PM" src="https://github.com/user-attachments/assets/9531e91f-392b-4228-b901-b1bcd6c9b11d" />
 </p>
 <p>
-Created 4 Departments <br/> 
-- IT.<br/>
-- Sales<br/>
-- Accounting<br/>
-- HR Departments. 
+Created 2 Departments <br/> 
+- IT Support.<br/>
+- SysAdmin 
 </p>
 <br />
 
